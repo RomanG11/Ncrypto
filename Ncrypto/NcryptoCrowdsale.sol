@@ -1,7 +1,3 @@
-/*
-the contract will be amended and updated. This is not the final version.
- It is intended more to familiarize with the structure of the contract.
- */
 pragma solidity ^0.4.19;
 library SafeMath { //standart library for uint
   function mul(uint256 a, uint256 b) internal pure returns (uint256) {
