@@ -129,8 +129,8 @@ contract Crowdsale is Ownable{
 
 
     // Buy constants
-  uint public tokenPrice = 0.0001 ether/pow(10,decimals); //idk about decimals
-  uint minDeposit = 0.01 ether;
+  uint public tokenPrice = 0.0002 ether/pow(10,decimals); //idk about decimals
+  uint minDeposit = 0.02 ether;
 
     // Ico constants
   uint public icoStart = 1523952000; //17.04.2018 1523952000
